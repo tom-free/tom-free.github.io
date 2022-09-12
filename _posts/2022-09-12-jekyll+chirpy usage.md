@@ -17,8 +17,8 @@ pin: true
 
 有两个途径创建Chirpy主题的仓库:
 
-- [**使用Chirpy Starter获取**](#option-1-using-the-chirpy-starter) - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
-- [**从GitHub获取**](#option-2-forking-on-github) - Convenient for custom development, but difficult to upgrade. Unless you are familiar with Jekyll and are determined to tweak or contribute to this project, this approach is not recommended.
+- **使用Chirpy Starter获取** - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
+- **从GitHub获取** - Convenient for custom development, but difficult to upgrade. Unless you are familiar with Jekyll and are determined to tweak or contribute to this project, this approach is not recommended.
 
 #### Option 1. 使用Chirpy Starter获取
 
